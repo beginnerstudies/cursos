@@ -1,2 +1,3 @@
 # cursos
-meus cursos em produção
+
+será um portfolio somente para os cursos que estou fazendo

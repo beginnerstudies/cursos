@@ -1,3 +1,3 @@
 # cursos
 
-será um portfolio somente para os cursos que estou fazendo
+meus cursos de shell e de html. somente para estudos.
